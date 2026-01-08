@@ -1,3 +1,39 @@
-body{
-    background-color: rgb(224, 150, 59);
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 1600px;
+    height: 92px;
+    background-color: rgb(255, 255, 224);
+
+}
+
+nav{
+    display: flex;
+    max-width: 1350px;
+    margin: auto;
+    justify-content: space-between;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.menu{
+   display: flex;
+   gap: 25px; 
+   list-style: none;
+
+}
+
+.menu a{
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+button{
+    background-color: #30B868;
+    width: 150px;
+    border-radius: 4px;
+    height: 44px;
 }
