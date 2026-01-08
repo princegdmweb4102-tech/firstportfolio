@@ -6,16 +6,17 @@
 header{
     width: 1600px;
     height: 92px;
-    background-color: rgb(255, 255, 224);
+    background-color: rgb(226, 226, 32);
 
 }
 
 nav{
     display: flex;
     max-width: 1350px;
+    height: 60px;
     margin: auto;
     justify-content: space-between;
-    padding: 10px 0;
+    padding: 20px 0;
     text-align: center;
 }
 
@@ -28,7 +29,8 @@ nav{
 
 .menu a{
     text-decoration: none;
-    margin-top: 20px;
+     font-family: "Inter", sans-serif;
+     font-size: 16px;
 }
 
 button{
@@ -36,4 +38,49 @@ button{
     width: 150px;
     border-radius: 4px;
     height: 44px;
+     font-family: "Inter", sans-serif;
+     font-size: 16px;
 }
+.container{
+    width: 1600px;
+    height: 674px;
+    background-image: url(../assets/hero-bg.png);
+}
+
+.bnnertopbut {
+    text-align: center;
+    padding-top: 100px;
+
+}
+
+.bnnertopbut button{
+    width: 229px;
+    height: 36px;
+    background-color: #FFFFFF;
+    border-radius: 100px;
+    font-family: "Inter", sans-serif;
+}
+
+.container h1{
+    color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+    font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+........
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
