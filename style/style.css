@@ -31,6 +31,7 @@ nav{
     text-decoration: none;
      font-family: "Inter", sans-serif;
      font-size: 16px;
+     line-height: 60px;
 }
 
 button{
@@ -64,11 +65,87 @@ button{
 .container h1{
     color: #FFFFFF;
     font-family: "Inter", sans-serif;
-    font-size: 50px;
+    font-size: 80px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.container h2{
+    color: #30B868;
+    font-family: "Inter", sans-serif;
+    font-size: 80px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.container p{
+    color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 10px;
+    line-height: 40px;
+}
+
+.bannerlastbutton{
+   display: flex;
+    max-width: 1600px;
+    height: 60px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.bt1 button{
+    width: 251px;
+    height: 52px;
+    font-family: "Inter", sans-serif;
+}
+
+.bt2 button{
+    width: 198px;
+    height: 52px;
+    font-family: "Inter", sans-serif;
+    margin-left: 10px;
+    color: #FFFFFF;
+    background-color:#ffffff00;
+    border: 2px solid #FFFFFF);
+    border-color: #FFFFFF;
+
+
 }
 
 
+.note1{
+    width: 1600px;
+    height: 100px;
+    text-align: center;
+    padding-top: 40px;
+}
 
+.note2{
+    background-color: #30B868;
+    width: 1350px;
+    margin: auto;
+    width: 1600px;
+    height: 300px;
+}
+
+.note1 h1{
+     font-family: "Inter", sans-serif;
+     font-size: 48px;
+
+}
+
+.note1 p{
+     font-family: "Inter", sans-serif;
+     font-size: 16px;
+     margin-top: 20px;
+
+}
+
+.card1{
+    width: ;
+}
 
 
 
