@@ -286,6 +286,49 @@ button{
 
 }
 
+.listiteam{
+    width: 500px;
+    height: 40px;
+    margin-top: 40px;
+    display: flex;
+    
+}
+
+.listicon{
+    width: 30px;
+    height: 40px;
+}
+
+.listtext{
+     font-family: "Inter", sans-serif;
+     font-size: 16px;
+    color: #000000;
+}
+
+.listiteam2{
+    width: 500px;
+    height: 40px;
+    margin-top: 5px;
+    display: flex;
+    
+}
+
+.listiteam3{
+    width: 500px;
+    height: 40px;
+    margin-top: 5px;
+    display: flex;
+    
+}
+
+.listiteam4{
+    width: 500px;
+    height: 40px;
+    margin-top: 5px;
+    display: flex;
+    
+}
+
 
 
 
