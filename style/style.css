@@ -30,8 +30,13 @@ nav{
 .menu a{
     text-decoration: none;
      font-family: "Inter", sans-serif;
-     font-size: 16px;
+     font-size: 18px;
      line-height: 60px;
+     color: #000000;
+}
+
+.menu a:hover{
+    color:#74d803;
 }
 
 button{
