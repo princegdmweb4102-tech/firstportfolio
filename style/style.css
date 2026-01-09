@@ -149,10 +149,12 @@ button{
 }
 
 .note2{
-    background-color: #cf5c0f;
     max-width: 1350px;
     margin: auto;
     height: 300px;
+    display: flex;
+     justify-content: space-between;
+    
 }
 
 .note1 h1{
@@ -169,20 +171,125 @@ button{
 }
 
 .card1{
-    width: 200px;
+    width: 280px;
     height: 250px;
-    background-color: #45ec11;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 80px;
 }
 
-.icnologo{
-    width: 50px;
-    height: 50px;
-    background-color: #F95555;
-    border-radius: 50px;
+
+.card1 h2{
+    font-family: "Inter", sans-serif;
+    margin-top: 20px;
+}
+
+.card1 p{
+    font-family: "Inter", sans-serif;
+    margin-top: 20px;
+}
+
+.card2{
+    width: 280px;
+    height: 250px;
+    text-align: center;
+    padding-top: 80px;
+}
+
+
+.card2 h2{
+    font-family: "Inter", sans-serif;
+    margin-top: 20px;
+}
+
+.card2 p{
+    font-family: "Inter", sans-serif;
+    margin-top: 20px;
+}
+
+
+.card3{
+    width: 280px;
+    height: 250px;
+    text-align: center;
+    padding-top: 80px;
+}
+
+
+.card3 h2{
+    font-family: "Inter", sans-serif;
+    margin-top: 20px;
+}
+
+.card3 p{
+    font-family: "Inter", sans-serif;
+    margin-top: 20px;
+}
+
+
+.card4{
+    width: 280px;
+    height: 250px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+
+.card4 h2{
+    font-family: "Inter", sans-serif;
+    margin-top: 20px;
+}
+
+.card4 p{
+    font-family: "Inter", sans-serif;
+    margin-top: 20px;
+}
+
+.information1{
+    width: 1600px;
+    height: 674px;
+    display: flex;
+    justify-items: auto;
+     padding: 120px;
 
 }
+
+.information1-text{
+    width: 600px;
+    height: 500px;
+    margin-left: 60px;
+    margin-top: 100px;
+}
+
+.information1-text h4{
+
+     font-family: "Inter", sans-serif;
+     font-size: 16px;
+     color: #30B868;
+
+}
+
+.information1-text h1{
+
+     font-family: "Inter", sans-serif;
+     font-size: 48px;
+     color: #001931;
+     margin-top: 20px;
+
+}
+
+.information1-text p{
+
+     font-family: "Inter", sans-serif;
+     font-size: 16px;
+     margin-top: 20px;
+     color: #627382;
+
+}
+
+
+
+
+
 
 
 
