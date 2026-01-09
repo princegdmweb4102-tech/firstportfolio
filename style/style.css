@@ -42,6 +42,31 @@ button{
      font-family: "Inter", sans-serif;
      font-size: 16px;
 }
+
+.topbutton:hover {
+    background-color: #FFFFFF;
+    color: #30B868;
+
+}
+
+.topbutton1:hover {
+    background-color: #45ec11;
+    color: #000000;
+
+}
+
+.topbutton2:hover {
+    background-color: #45ec11;
+    color: #000000;
+
+}
+
+.topbutton3:hover {
+    background-color: #45ec11;
+    color: #000000;
+
+}
+
 .container{
     width: 1600px;
     height: 674px;
@@ -99,6 +124,7 @@ button{
     width: 251px;
     height: 52px;
     font-family: "Inter", sans-serif;
+    color: #FFFFFF;
 }
 
 .bt2 button{
@@ -123,10 +149,9 @@ button{
 }
 
 .note2{
-    background-color: #30B868;
-    width: 1350px;
+    background-color: #cf5c0f;
+    max-width: 1350px;
     margin: auto;
-    width: 1600px;
     height: 300px;
 }
 
@@ -144,7 +169,19 @@ button{
 }
 
 .card1{
-    width: ;
+    width: 200px;
+    height: 250px;
+    background-color: #45ec11;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.icnologo{
+    width: 50px;
+    height: 50px;
+    background-color: #F95555;
+    border-radius: 50px;
+
 }
 
 
