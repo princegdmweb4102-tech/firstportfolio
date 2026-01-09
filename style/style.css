@@ -6,7 +6,7 @@
 header{
     width: 1600px;
     height: 92px;
-    background-color: rgb(226, 226, 32);
+    background-color: #FAFAFA;
 
 }
 
@@ -378,24 +378,95 @@ button{
     color: #000000;
 
 }
+
+.footersection{
+    background-color: #001931;
+    width: 1600px;
+    height: 400px;
+}
+
+.footersection1{
+    width: 1350px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding-top: 100px;
+}
+
+
+.footersection1 p{
+    font-size: 20px;
+     font-family: "Inter", sans-serif;
+     text-align: center;
+    color: #FAFAFA;
+
+
+}
+
+.footersection2{
+    margin-top: 0px;
+}
+
+.footersection2 p{
+    font-size: 16px;
+     font-family: "Inter", sans-serif;
+     text-align: center;
+     margin-top: 30px;
+    color: #FAFAFA;
+
+}
     
+.social1{
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: 20px;
+    background-color: #FAFAFA;
+}
+
+.social2{
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: 20px;
+    background-color: #FAFAFA;
+}
+
+.social3{
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: 20px;
+    background-color: #FAFAFA;
+}
 
 
+.social1:hover{
 
+    background-color: #af0101;                       
+    color: #ffffff;
 
+}
 
+.social2:hover{
 
+    background-color: #af0101;                       
+    color: #ffffff;
 
+}
 
+.social3:hover{
 
+    background-color: #af0101;                       
+    color: #ffffff;
 
+}
 
-
-
-
-
-........
-  font-family: "Inter", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+.line {
+  width: 1300px;
+  height: 1px;
+  margin: auto;
+  margin-top: 100px;
+  background-color: #5a5a5abe;
+}
