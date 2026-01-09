@@ -329,6 +329,57 @@ button{
     
 }
 
+.challangesection{
+    width: 1600px;
+    height: 400px;
+}
+
+.challangnote1{
+    width: 1600px;
+    height: 100px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.challangnote1 h1{
+    font-size: 40px;
+    font-family: "Inter", sans-serif;
+    color: #000000;
+}
+
+.challangnote1 p{
+    font-size: 16px;
+    font-family: "Inter", sans-serif;
+    color: #627382;
+    margin-top: 10px;
+}
+
+.challangnote1 h2{
+    font-size: 16px;
+    font-family: "Inter", sans-serif;
+    color: #627382;
+    margin-top: 10px;
+}
+
+
+.challangnote1 button{
+    width: 180px;
+    height: 60px;
+    background-color: #30B868;
+    font-family: "Inter", sans-serif;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+
+
+.challangnote1button:hover{
+
+    background-color: #FFFFFF;                       
+    color: #000000;
+
+}
+    
+
 
 
 
